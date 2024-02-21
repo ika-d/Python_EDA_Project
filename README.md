@@ -1,4 +1,4 @@
-# Python_EDA_Project
+Hello there!
 
-This is a beginner level Exploratory Data Analysis project on E-Commerce Profit-Sales data.
+Here I try to showcase my Python skills by completing several projects with real world datasets.
 
